@@ -18,4 +18,6 @@ has Langton's ant rules
 
 and has the option of changes the size and setting random points 
 
-before
+or filling the whole screen solid
+
+which in effect creates the inverse of the ant path
