@@ -106,7 +106,7 @@ void showGrid() {
     for (int i =0; i < cols; i++) {
       // set color
       fill(grid[j][i]*127);
-      rect(j*sz, i*sz, sz, sz);
+      rect(i*sz, j*sz, sz, sz); // whoops!! this is standard x, y
     }
   }
 }
