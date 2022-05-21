@@ -12,7 +12,16 @@ his new positon is obtained by using polar to cartesian coordinates
 
 antTurtle no rule shows just the basic movment of the turtle
 
-antTurtleRule  
+
+/antTurtlePoly/antTurtlePoly.png 
+
+antTurtlePoly shows the ant turtle drawing polygons using different heading angles
+
+[/antTurtlePoly/antTurtlePoly.png]
+
+
+
+antTurtleRule 
 
 has Langton's ant rules 
 
