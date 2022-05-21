@@ -17,7 +17,7 @@ antTurtle no rule shows just the basic movment of the turtle
 
 antTurtlePoly shows the ant turtle drawing polygons using different heading angles
 
-[/antTurtlePoly/antTurtlePoly.png]
+![antPoly](/antTurtlePoly/antTurtlePoly.png)
 
 
 
