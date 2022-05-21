@@ -8,20 +8,16 @@ his x and y are held in a PVector and his heading is an angle
 his new positon is obtained by using polar to cartesian coordinates
 
 
-
-
 antTurtle no rule shows just the basic movment of the turtle
 
 
-/antTurtlePoly/antTurtlePoly.png 
-
-antTurtlePoly shows the ant turtle drawing polygons using different heading angles
+## antTurtlePoly shows the ant turtle drawing polygons using different heading angles
 
 ![antPoly](/antTurtlePoly/antTurtlePoly.png)
 
 
 
-antTurtleRule 
+## antTurtleRule 
 
 has Langton's ant rules 
 
@@ -31,6 +27,7 @@ or filling the whole screen solid
 
 which in effect creates the inverse of the ant path
 
+## antTurtleChangeAngle
 
 some really interesting results with rotating the antTurtle differnt degrees
 
