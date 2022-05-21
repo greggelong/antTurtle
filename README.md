@@ -52,3 +52,5 @@ right 6 left 180 is a tight oscillation
 
 right 60 left 150 has pretty fractal loops as hightways!!!
 
+![antTurtle60L150R](/antTurtleChangeAngle/antTurtle563.png)
+
