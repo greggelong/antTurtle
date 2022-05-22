@@ -56,8 +56,8 @@ ____
 
 It is an implementation of Langton’s ant rules:
 
->At a blank square, turn 90° clockwise, flip the color of the square, move forward one unit 
->At a colored square, turn 90° counter-clockwise, flip the color of the square, move forward one unit
+- At a blank square, turn 90° clockwise, flip the color of the square, move forward one unit 
+- At a colored square, turn 90° counter-clockwise, flip the color of the square, move forward one unit
 
 but instead of 90 degrees it turns 30 degrees
 
