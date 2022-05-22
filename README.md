@@ -73,19 +73,32 @@ and a large hand seems to grow out of the bottom right at 200 frames
 
 As this macro structure is created by deterministic rules at a lower level,
 this rather random looking (messy) thing will produce these structures every time you run it.
-You can interact with AntTurtle30.
+
+### You can interact with AntTurtle30.
+
 I have added interaction to the program.
+
 In antTurtle30pause when you press the mouse button and drag the mouse you add 
 color to the grid,  if you hold down any key at the same time you delete color from the grid.
-while you are adding or taking away color the computation of rules is paused 
-when you release the button the amoeba springs to life and reacts to your interaction.
-Its deterministic future is forever changed as it seems to investigate what you have done.
-(in antTurtl30 I do not pause the computation. So your reaction to the grid very much reduced as the hundreds of computations are computed between each frame where you just place a single dot.
-This may also be a useful analogy concerning level and frequency that we face in our would!)
+
+While you are adding or taking away color the computation of rules is paused. 
+
+When you release the button the amoeba springs to life and reacts to your interaction.
+
+Its originally determined future is forever changed as it seems to investigate what you have done. 
+
+(in antTurtl30 I do not pause the computation. So your reaction to the grid very much reduced as the hundreds of computations are computed between each frame where you just place a single dot. This may also be a useful analogy concerning level and frequency that we face in our would!)
+
+### Questions 
 
 Is antTurtle30 alive?
+
+Is it an analogy of life?
+
 Is the oscillation an analogy for consciousness, self-consciousness, awareness? 
+
 Douglas Hofstadter-- strange loop . Daniel Dennett  etc
+
 
 
  
