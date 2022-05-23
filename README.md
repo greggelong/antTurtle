@@ -33,11 +33,11 @@ which in effect creates the inverse of the ant path
 
 I compared the performance of my antTurtle with NetLogo implementation of vants.
 NetLogo also uses a turtle and patches to create the visualization.
- NetLogo has a zero position in the center of its grid as dose a classical cartesian grid. You set the size of the grid with a single number for positive and negative numbers for size.  Thus, you always get an odd numbered grid.
-In processing my grids are actually a 2d array data structure and out of habit and perhaps a preference for even things was always an even number.  
+ NetLogo has a zero position in the center of its grid, a classical cartesian grid. You set the size of the grid with a single number for positive and negative numbers.  Thus, you always get an odd numbered grid.
+In processing my grids are actually a 2d array data structure and out of habit and perhaps a preference for even things, the grid was always an even number.  
 However, I noticed that even the basic ant rules will produce an oscillation on NetLogo.  
-I thus set my processing antTurtle on odd grid and was able to produce the same oscillation
-Pretty interesting find. 
+I then set my processing antTurtle on odd grid and was able to produce the same oscillation
+Pretty interesting find! 
 This really highlights how important the initial conditions are to the long-term behavior of the deterministic ant function.  Even the oddness or evenness of the grid has an effect on the higher order structure.  (are there social or  biological analogies)
 I have added the NetLogo code slightly which I slightly modified from
 >Wilensky, U. (2005). NetLogo Vants model. http://ccl.northwestern.edu/netlogo/models/Vants. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL
