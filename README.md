@@ -41,6 +41,7 @@ Pretty interesting find.
 This really highlights how important the initial conditions are to the long-term behavior of the deterministic ant function.  Even the oddness or evenness of the grid has an effect on the higher order structure.  (are there social or  biological analogies)
 I have added the NetLogo code slightly which I slightly modified from
 >Wilensky, U. (2005). NetLogo Vants model. http://ccl.northwestern.edu/netlogo/models/Vants. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL
+
 I have also added a modified processing antTurtle for comparision antTurtleNetLogoCompare
 
 ## antTurtleChangeAngle
