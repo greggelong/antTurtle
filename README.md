@@ -129,6 +129,25 @@ Douglas Hofstadter-- strange loop . Daniel Dennett  etc
 
 
 
+----
+
+## antTurtleClass
+
+I have made a antTurtle class 
+
+You can initalize as many  ants and set their
+  - x, y cooridinate
+  - symbol or color
+  - left turn angle 
+  - right turn angle
+  
+ greg = new AntTurtle(100,100,1,90,90); // (x,y,symbol,LeftturnAngle,rightTurnAngle)
+ 
+ mj = new AntTurtle(200,200,2,150,60);
+
+here I have two ants following different turning rules and interacting
+
+
 ____
 
 ## link to earlier work with Langton's ant drawn without a turtle
