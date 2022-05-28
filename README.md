@@ -76,6 +76,7 @@ ___
 - odd grid makes the turtle oscillate 
   -- found this while comparing to NetLogo version
 - obstacles in red will divert the antTurtle
+
 ![antTurtleObs](/antTurtleRndObstacleOddGrid/antTurtleObs.png/)
 
 ____
