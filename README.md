@@ -68,6 +68,16 @@ right 60 left 150 has pretty fractal loops as hightways!!!
 
 ![antTurtle60R150L](/antTurtleChangeAngle/antTurtle563.png)
 
+
+___ 
+
+## antTurtleRndObstacleOddGrid
+
+- odd grid makes the turtle oscillate 
+  -- found this while comparing to NetLogo version
+- obstacles in red will divert the antTurtle
+
+
 ____
 ## Ant turtle 30
 
