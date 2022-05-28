@@ -129,7 +129,11 @@ Douglas Hofstadter-- strange loop . Daniel Dennett  etc
 
 
 
- 
+____
+
+## link to earlier work with Langton's ant drawn without a turtle
+
+https://github.com/greggelong/langtonsAnt
 
 
  
